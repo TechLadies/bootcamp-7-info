@@ -89,6 +89,6 @@ After uploading the source code, fill up the application form before the deadlin
 
 ## Support
 
-If you have unanswered or need to clarify any of the points, please email bootcamp@techladies.co.
+If you have unanswered questions or need to clarify any of the points, please email bootcamp@techladies.co.
 
 [[Back to Top]](#TechLadies-Bootcamp-7-Information)
