@@ -7,7 +7,7 @@ This repository contains information about the seventh edition of the TechLadies
 - [Basic Info](#basic-info)
 - [Timeline](#timeline)
 - [Technical Task](#technical-task)
-- [Support](support)
+- [Support](#support)
 
 ## Basic Info
 
