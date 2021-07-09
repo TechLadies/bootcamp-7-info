@@ -23,15 +23,15 @@ Following this, prospective participants of the Bootcamp will complete a Technic
 
 ### Pre-Bootcamp Workshops
 
-| Name                             | Date      | Presenter(s)  | Link(s)                                                                                                        |
-| -------------------------------- | --------- | ------------- | -------------------------------------------------------------------------------------------------------------- |
-| Info Session                     | July 17   | Bootcamp Team | [Slides](https://docs.google.com/presentation/d/1wyPdiUhWAFGS7MgJJBqJnl_2lkLEd9u_RSvQkyzDtkk/edit?usp=sharing) |
-| Install Fest                     | July 24   | TBA           |                                                                                                                |
-| Introduction to HTML, CSS and JS | July 31   | TBA           |                                                                                                                |
-| Introduction to React            | August 7  | TBA           |                                                                                                                |
-| Introduction to ExpressJS        | August 14 | TBA           |                                                                                                                |
-| Introduction to Databases        | August 21 | TBA           |                                                                                                                |
-| Code Clinic                      | August 28 | TBA           |                                                                                                                |
+| Name                             | Date      | Presenter(s)     | Link(s)                                                                                                        |
+| -------------------------------- | --------- | ---------------- | -------------------------------------------------------------------------------------------------------------- |
+| Info Session                     | July 17   | Bootcamp Team    | [Slides](https://docs.google.com/presentation/d/1wyPdiUhWAFGS7MgJJBqJnl_2lkLEd9u_RSvQkyzDtkk/edit?usp=sharing) |
+| Install Fest                     | July 24   | Bootcamp Team              |                                                                                                                |
+| Introduction to HTML, CSS and JS | July 31   | Aditi            |                                                                                                                |
+| Introduction to React            | August 7  | Sze Ying         |                                                                                                                |
+| Introduction to ExpressJS        | August 14 | Shelvia & Denise |                                                                                                                |
+| Introduction to Databases        | August 21 | Jay              |                                                                                                                |
+| Code Clinic                      | August 28 | Bootcamp Team              |                                                                                                                |
 
 ### Bootcamp
 
