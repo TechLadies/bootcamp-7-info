@@ -59,7 +59,7 @@ Make a visual website that shows how much you know about building websites. You 
 
 > You do not need to do this, and you will not be marked down for not completing this section
 
-- Use the Weather Forecast Public APIs to add a weather forecase page to the website.
+- Use the [Weather Forecast Public APIs](https://data.gov.sg/dataset/weather-forecast) to add a weather forecase page to the website.
 - The weather information should reside on a separate page in the website. How to display the information is up to you.
 
 ### Backend Technical Task
