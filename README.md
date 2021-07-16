@@ -26,12 +26,12 @@ Following this, prospective participants of the Bootcamp will complete a Technic
 | Name                             | Date        | Presenter(s)     | Link(s)                                                                                                        |
 | -------------------------------- | ----------- | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | Info Session                     | July 17     | Bootcamp Team    | [Slides](https://docs.google.com/presentation/d/1wyPdiUhWAFGS7MgJJBqJnl_2lkLEd9u_RSvQkyzDtkk/edit?usp=sharing) |
-| Install Fest                     | July 24     | Bootcamp Team    |                                                                                                                |
-| Introduction to HTML, CSS and JS | July 31     | Aditi            |                                                                                                                |
+| Install Fest                     | July 24     | Sam & Ben    |                                                                                                                |
+| Introduction to HTML, CSS and JS | July 31     | Aryn & Aditi            |                                                                                                                |
 | Introduction to React            | August 7    | Sze Ying         |                                                                                                                |
 | Code Clinic 1 (Frontend)         | August 14   | Bootcamp Team    |                                                                                                                |
 | Introduction to ExpressJS        | August 21   | Shelvia & Denise |                                                                                                                |
-| Introduction to Databases        | August 28   | Jay              |                                                                                                                |
+| Introduction to Databases        | August 28   | Jay & Ariessa              |                                                                                                                |
 | Code Clinic 2 (Backend)          | September 4 | Bootcamp Team    |                                                                                                                |
 
 ### Bootcamp
@@ -84,7 +84,7 @@ Participants will need to share the source code of their submission for evaluati
 - Push the code to GitHub or BitBucket (both have free tier usage).
 - Upload the source code in a zip file to Dropbox or Google Drive.
 
-After uploading the source code, fill up the application form before the deadline on September 4.
+After uploading the source code, fill up the [application form](https://docs.google.com/forms/d/1w6AxA-1hHo2c07aTDEviXdUONY6fL2Xyn2VDhqWS17w/edit) before the deadline on September 4.
 
 [[Back to Top]](#TechLadies-Bootcamp-7-Information)
 
