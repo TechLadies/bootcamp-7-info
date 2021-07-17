@@ -84,7 +84,7 @@ Participants will need to share the source code of their submission for evaluati
 - Push the code to GitHub or BitBucket (both have free tier usage).
 - Upload the source code in a zip file to Dropbox or Google Drive.
 
-After uploading the source code, fill up the [application form](https://docs.google.com/forms/d/1w6AxA-1hHo2c07aTDEviXdUONY6fL2Xyn2VDhqWS17w/edit) before the deadline on September 4.
+After uploading the source code, fill up the [application form](https://docs.google.com/forms/d/1w6AxA-1hHo2c07aTDEviXdUONY6fL2Xyn2VDhqWS17w/edit) before the deadline on September 5.
 
 [[Back to Top]](#TechLadies-Bootcamp-7-Information)
 
