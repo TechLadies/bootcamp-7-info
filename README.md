@@ -26,13 +26,13 @@ Following this, prospective participants of the Bootcamp will complete a Technic
 | Name                             | Date        | Presenter(s)     | Link(s)                                                                                                        |
 | -------------------------------- | ----------- | ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | Info Session                     | July 17     | Bootcamp Team    | [Slides](https://docs.google.com/presentation/d/1wyPdiUhWAFGS7MgJJBqJnl_2lkLEd9u_RSvQkyzDtkk/edit?usp=sharing) |
-| Install Fest                     | July 24     | Sam & Ben        |                                                                                                                |
-| Introduction to HTML, CSS and JS | July 31     | Aryn & Aditi     |                                                                                                                |
-| Introduction to React            | August 7    | Sze Ying & Debby |                                                                                                                |
-| Code Clinic 1 (Frontend)         | August 14   | Bootcamp Team    |                                                                                                                |
-| Introduction to ExpressJS        | August 21   | Shelvia & Denise |                                                                                                                |
-| Introduction to Databases        | August 28   | Jay & Ariessa    |                                                                                                                |
-| Code Clinic 2 (Backend)          | September 4 | Bootcamp Team    |                                                                                                                |
+| Install Fest                     | July 24     | Sam & Ben        | [Slides](https://github.com/upieez/installfest)                                                                |
+| Introduction to HTML, CSS and JS | July 31     | Aryn & Aditi     | Slides available for registered particpants on Slack.                                                          |
+| Introduction to React            | August 7    | Sze Ying & Debby | Slides available for registered particpants on Slack.                                                          |
+| Code Clinic 1 (Frontend)         | August 14   | Bootcamp Team    | N/A                                                                                                            |
+| Introduction to ExpressJS        | August 21   | Shelvia & Denise | Slides available for registered particpants on Slack.                                                          |
+| Introduction to Databases        | August 28   | Jay & Ariessa    | Slides available for registered particpants on Slack.                                                          |
+| Code Clinic 2 (Backend)          | September 4 | Bootcamp Team    | N/A                                                                                                            |
 
 ### Bootcamp
 
