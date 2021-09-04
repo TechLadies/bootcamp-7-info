@@ -44,7 +44,7 @@ The Bootcamp will begin on October 9 and last until 15 January. There will be a 
 
 To apply for the Bootcamp, prospective participants will need to complete a Technical Task to help the Bootcamp Team evaluate their technical capabilities. The Pre-Bootcamp Workshops, together with the Code Clinic are designed to help participants complete the Technical Task, and attendance is highly recommended.
 
-The deadline for the Technical Task will be September 4, giving applicants enough time after the Code Clinic to make finishing touches. After the deadline, the Bootcamp Team will review submissions and select the 8 Bootcamp participants. Everyone who made a Technical Task submission will be notified on or shortly after **September 25**.
+The deadline for the Technical Task will be September 19, giving applicants enough time after the Code Clinic to make finishing touches. After the deadline, the Bootcamp Team will review submissions and select the 8 Bootcamp participants. Everyone who made a Technical Task submission will be notified on or shortly after **September 25**.
 
 There are 2 Tasks available (only 1 needs to be completed):
 
@@ -84,7 +84,7 @@ Participants will need to share the source code of their submission for evaluati
 - Push the code to GitHub or BitBucket (both have free tier usage).
 - Upload the source code in a zip file to Dropbox or Google Drive.
 
-After uploading the source code, fill up the [application form](https://docs.google.com/forms/d/1w6AxA-1hHo2c07aTDEviXdUONY6fL2Xyn2VDhqWS17w/edit) before the deadline on September 5.
+After uploading the source code, fill up the [application form](https://docs.google.com/forms/d/1w6AxA-1hHo2c07aTDEviXdUONY6fL2Xyn2VDhqWS17w/edit) before the deadline on September 19.
 
 [[Back to Top]](#TechLadies-Bootcamp-7-Information)
 
